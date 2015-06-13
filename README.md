@@ -1,3 +1,3 @@
 # Introduction
-Collections of useful design pattern methods, including its unit tests.
+Collections of useful design pattern methods in javaScript, including its unit tests.
 
